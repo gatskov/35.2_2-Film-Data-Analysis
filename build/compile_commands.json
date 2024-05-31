@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/VSCode/FilmDataAnalysis/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 @CMakeFiles/FilmDadaAnalysis.dir/includes_CXX.rsp -g -o CMakeFiles\\FilmDadaAnalysis.dir\\main.cpp.obj -c D:\\VSCode\\FilmDataAnalysis\\main.cpp",
+  "file": "D:/VSCode/FilmDataAnalysis/main.cpp",
+  "output": "CMakeFiles/FilmDadaAnalysis.dir/main.cpp.obj"
+}
+]
